@@ -10,6 +10,11 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>**的网站</title>
+    <title>猜数字游戏</title>
   </head>
+  <body>
+    <h1>猜数字游戏</h1>
+    <!-- 游戏代码部分 -->
+  </body>
+</html>
 ```
