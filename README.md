@@ -7,3 +7,9 @@
 
 ```html
 <!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>**的网站</title>
+  </head>
+```
